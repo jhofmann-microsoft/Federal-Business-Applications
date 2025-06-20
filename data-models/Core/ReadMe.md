@@ -95,6 +95,7 @@ graph TD
   govcdm_Location --> govcdm_stateorprovince
   govcdm_Agreement --> TransactionCurrency
   govcdm_Product --> TransactionCurrency
+```
 
 # Account
 ---
