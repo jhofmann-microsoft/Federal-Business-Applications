@@ -8,7 +8,6 @@ We highly recommend using the managed versions, which will allow you to easily u
 # Entity Relationship Diagram
 ---
 
-<code>
 ```mermaid
 graph TD
   Account(Account)
@@ -96,8 +95,6 @@ graph TD
   govcdm_Location --> govcdm_stateorprovince
   govcdm_Agreement --> TransactionCurrency
   govcdm_Product --> TransactionCurrency
-</code>
-
 
 # Account
 ---
